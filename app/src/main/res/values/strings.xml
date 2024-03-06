@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="app_nombre">My Quiz</string>
+    <string name="question_txt">¿Kotlin es el lenguaje nativo de programacion de Google?</string>
+    <string name="btrue">Verdadero</string>
+    <string name="bfalse">Falso</string>
+    <string name="bnext">Siguiente -></string>
+    <string name="question_java">¿El logo de java es un taza de cafe?</string>
+    <string name="question_html">¿El lenguaje html es usado para crear aplicaciones?</string>
+    <string name="question_alac">¿Los alacranes son insectos?</string>
+    <string name="question_main">¿Un archivo main es algo pincipal e inicio? </string>
+    <string name="correct_toast">Correcto</string>
+    <string name="incorrect_toast">Incorrecto</string>
+</resources>
